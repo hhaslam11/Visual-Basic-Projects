@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Basic Express 2008
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Paystub Calculator", "Paystub Calculator\Paystub Calculator.vbproj", "{D3129B87-B5E7-4B39-B58C-51DCB9FF353D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D3129B87-B5E7-4B39-B58C-51DCB9FF353D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3129B87-B5E7-4B39-B58C-51DCB9FF353D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3129B87-B5E7-4B39-B58C-51DCB9FF353D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3129B87-B5E7-4B39-B58C-51DCB9FF353D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
